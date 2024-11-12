@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.section1 {
+    background-color: brown; 
+    color: white;
+    padding: 30px 0;
+    text-align: justify;
+    padding-left: 150px;
+}
+
+.h1 {
+    font-size: 120px;
+    font-weight: bolder;
+    color: white;
+    margin: 0;
+}
+
+.sec1h2 {
+    font-size: 50px;
+    font-weight: bolder;
+    margin: -10px 0 20px;
+    color: black;
+}
+
+.section2 {
+    background-color: white;
+    padding: 60px 0;
+    padding-left: 100px;
+    position: relative;
+}
+
+.sec1p {
+    line-height: 40px; 
+    font-size: 32px;
+}
+
+.sec2h2, .sec2h22 {
+    font-size: 80px;
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    left: 100px;
+    margin-top: 0;
+}
+
+.triangle-logo {
+    width: 56px;
+    position: relative;
+    top: -20px;
+    margin-bottom: -20px;
+    left: 100px;
+}
+
+.abc {
+    display: flex;
+    gap: 80px;
+    margin-top: -40px;
+}
+
+.abc div {
+    text-align: center;
+    font-size: 32px;
+    position: relative;
+    top: 100px;
+}
+
+.abc img {
+    width: 150px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.footer {
+    background-color: brown;
+    color: white;
+    padding: 100px;
+    text-align: justify;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.triangle{
+
+    border-bottom: 100px solid white;
+    border-left: 100px solid transparent;
+    position: relative; left: 1270px;
+    top: 30px;
+  }
+  .triangle2{
+    border-bottom: 100px solid white;
+    border-left: 100px solid transparent;
+    position: relative; left: 1350px;
+    top: 100px;
+  }
